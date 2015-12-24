@@ -1,8 +1,8 @@
 {
     "name": "hub20xx/Session",
-    "description": "A session class",
+    "description": "A simple session class",
     "license": "MIT",
-    "keywords": ["php", "session"],
+    "keywords": ["session", "flash"],
     "authors": [
         {
             "name": "hub20xx",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hub20xx\\": "src"
+            "hub20xx\\Session\\": "src"
         }
     }
 }
