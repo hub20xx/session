@@ -54,7 +54,7 @@ $myFlashClass = $session->flash('myFlashClass');
 ## Testing
 
 ```bash
-phpunit
+$ phpunit
 ```
 
 ## License
