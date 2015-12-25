@@ -1,5 +1,7 @@
 # Session
 
+[![Build Status](https://travis-ci.org/hub20xx/session.svg)](https://travis-ci.org/hub20xx/session)
+
 A simple session class.
 
 ## Install
