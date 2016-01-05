@@ -63,3 +63,16 @@ $ phpunit
 
 [MIT](LICENSE.md)
 
+## Credits / Thanks
+
+This package was inpired (among others) by:
+
+    - [the Codecourse's tutorial on creating an OOP Login/Register System](https://www.youtube.com/playlist?list=PLfdtiltiRHWF5Rhuk7k4UAU1_yLAZzhWc) and especially [this video](https://www.youtube.com/watch?v=3yrpRfdtYc4) and [this video](https://www.youtube.com/watch?v=T_abxlvA1VE)
+    - [the SlimFlash package](https://github.com/slimphp/Slim-Flash)
+
+Many thanks to them :)
+
+## Contributing
+
+If you'd like to contribute, please use Github (issues, pull requests etc).
+
