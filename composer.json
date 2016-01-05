@@ -1,5 +1,5 @@
 {
-    "name": "hub20xx/Session",
+    "name": "hub20xx/session",
     "description": "A simple session class",
     "license": "MIT",
     "keywords": ["session", "flash"],
